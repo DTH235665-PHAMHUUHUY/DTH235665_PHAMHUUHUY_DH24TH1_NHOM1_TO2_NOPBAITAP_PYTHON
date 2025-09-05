@@ -1,0 +1,20 @@
+/ : Chia lấy kết quả là số thực.
+Ví dụ: 5 / 2 kết quả là 2.5
+
+// : Chia lấy phần nguyên.
+Ví dụ: 5 // 2 kết quả là 2
+
+% : Chia lấy phần dư (modulo).
+Ví dụ: 5 % 2 kết quả là 1
+
+** : Lũy thừa.
+Ví dụ: 2 ** 3 kết quả là 8
+
+and : Toán tử logic "và", trả về True nếu cả hai vế đều đúng.
+Ví dụ: True and False kết quả là False
+
+or : Toán tử logic "hoặc", trả về True nếu ít nhất một vế đúng.
+Ví dụ: True or False kết quả là True
+
+is : So sánh hai đối tượng có cùng vị trí trong bộ nhớ hay không.
+Ví dụ: a is b trả về True nếu a và b là cùng một đối tượng.
