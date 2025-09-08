@@ -16,4 +16,4 @@ elif phep_toan == '/':
 else:
     ket_qua = "Phép toán không hợp lệ!"
 
-print("Kết quả:", ket_qua)
+print("Kết quả:", ket_qua) 
