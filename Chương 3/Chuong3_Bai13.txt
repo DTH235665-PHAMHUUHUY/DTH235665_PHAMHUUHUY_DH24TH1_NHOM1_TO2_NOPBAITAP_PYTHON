@@ -1,0 +1,5 @@
+Có vô hạn dấu * được in ra màn hình.
+
+Giải thích:  
+Biến a bắt đầu từ 0, vòng lặp while chạy khi a < 100.  
+Trong đoạn mã không có lệnh tăng a nên điều kiện a < 100 luôn đúng, vòng lặp chạy mãi và in ra vô hạn dấu
