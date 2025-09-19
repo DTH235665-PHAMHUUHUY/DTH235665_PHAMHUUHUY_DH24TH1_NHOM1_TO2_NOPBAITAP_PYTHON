@@ -35,3 +35,4 @@ def analyze_string(s):
 
 if __name__ == "__main__":
     s = input("Nhập vào một chuỗi: ")
+    analyze_string(s)
